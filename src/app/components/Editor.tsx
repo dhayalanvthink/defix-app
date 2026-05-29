@@ -4,7 +4,7 @@ import { Button } from './ui/button';
 import { Separator } from './ui/separator';
 import { Slider } from './ui/slider';
 import { CanvasBoard } from './CanvasBoard';
-import { toast } from 'sonner@2.0.3';
+import { toast } from 'sonner';
 
 import { supabase } from '../lib/supabase';
 import { Avatar, AvatarFallback, AvatarImage } from "./ui/avatar";
